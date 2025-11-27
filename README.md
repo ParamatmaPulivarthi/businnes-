@@ -1,4 +1,4 @@
-# resturant
+# restaurant
 non veg food 
 pure vegg
 chinees
